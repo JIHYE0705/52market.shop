@@ -44,6 +44,6 @@ https://52market.shop
 * 웹소켓 이용해 댓글 추가 및 삭제 시 즉시 반영
 
 ### 📌 Architecture
-<img src = "https://jihyemyeong-bucket.s3.ap-northeast-2.amazonaws.com/KakaoTalk_Snapshot_20220104_142823.png">
+<img src = "https://jihyemyeong-bucket.s3.ap-northeast-2.amazonaws.com/52matket-architecture.png">
 
 ### 📌 문제를 이렇게 해결했어요! - <a href="https://github.com/AndrewDongminYoo/52market.shop/issues" >상세보기 - ISSUE 이동</a>
