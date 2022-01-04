@@ -46,4 +46,7 @@ https://52market.shop
 ### 📌 Architecture
 <img src = "https://jihyemyeong-bucket.s3.ap-northeast-2.amazonaws.com/52matket-architecture.png">
 
+### 📌 ERD
+<img src ="https://jihyemyeong-bucket.s3.ap-northeast-2.amazonaws.com/ERD.png">
+
 ### 📌 문제를 이렇게 해결했어요! - <a href="https://github.com/AndrewDongminYoo/52market.shop/issues" >상세보기 - ISSUE 이동</a>
